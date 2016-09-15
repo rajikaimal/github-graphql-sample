@@ -1,0 +1,31 @@
+{
+  "name": "github-graphql-sample",
+  "version": "1.0.0",
+  "description": "Sample calls with GitHub's GraphQL API (alpha release)",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajikaimal/github-graphql-sample.git"
+  },
+  "keywords": [
+    "graphql",
+    "github"
+  ],
+  "author": "rajikaimal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rajikaimal/github-graphql-sample/issues"
+  },
+  "homepage": "https://github.com/rajikaimal/github-graphql-sample#readme",
+  "devDependencies": {
+    "ava": "^0.16.0",
+    "eslint": "^3.5.0",
+    "eslint-config-google": "^0.6.0"
+  },
+  "dependencies": {
+    "request": "^2.74.0"
+  }
+}
