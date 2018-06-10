@@ -1,5 +1,7 @@
 # github-graphql-sample
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/rajikaimal/github-graphql-sample.svg)](https://greenkeeper.io/)
+
 Sample calls with GitHub's GraphQL API (alpha release)
 
 ## Usage
